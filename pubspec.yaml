@@ -1,7 +1,7 @@
 name: enigma_widget
-description: A new Flutter package project.
+description: Widgets are made to make it easier when developing applications.
 version: 0.0.1
-homepage: rezapramita
+homepage: https://educonnect-fe0d5.web.app/
 repository: "https://github.com/inisialer/enigma_widget.git"
 
 environment:
